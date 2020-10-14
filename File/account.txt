@@ -1,0 +1,5 @@
+name,password,email,phone,
+Thu Thu,wkxwkx21334?hhid,thuthu@gmail.com,+95968745632,
+Tun tun,wxqwxq1234,tuntun@gmail.com,+9596654789,
+Mg Mg,pjpj,mgmg@gmail.com,+95645789,
+Sai Nyi,12345,sainyi@gmail.com,+959440096573,
